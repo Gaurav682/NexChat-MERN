@@ -1,20 +1,3 @@
-add an .env file into backend, a file should contain the following:
-
-MONGODB_URI = https://url.com
-PORT = XXXX
-JWT_SECRET = secretkey
-CLOUDINARY_CLOUD_NAME = XXXXXX
-CLOUDINARY_API_KEY = XXXXXXXX
-CLOUDINARY_API_SECRET = XXXXXX
-
-
-then run the following commands:
-
-npm run build
-
-npm run start
-
-
 # NexChat - MERN Chat Application
 
 A real-time chat application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), featuring user authentication, cloud image uploads, and responsive design.
